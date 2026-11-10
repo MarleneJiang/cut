@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.env
+evidence/
+project-work/
+*.blend
+*.blend1
+*.fbx
+*.stl
+*.3mf
+*.gcode

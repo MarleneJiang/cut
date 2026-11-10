@@ -1,0 +1,4 @@
+# Versions used for the synthetic geometry checks in this package.
+numpy==2.5.4
+trimesh==4.12.2
+manifold3d==3.5.4

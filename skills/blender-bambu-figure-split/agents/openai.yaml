@@ -1,0 +1,4 @@
+interface:
+  display_name: "手办拆件与拓竹打印"
+  short_description: "参考图分色、沿真实几何拆件、验证装配与切片，并保留毕设过程证据"
+  default_prompt: "用 $blender-bambu-figure-split 处理这个手办，先试拆关键部件，检查装配，并逐步保存模型、截图和操作记录。"
